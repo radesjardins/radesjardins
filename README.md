@@ -4,11 +4,11 @@ I build open-source plugins and skills for [Claude Code](https://docs.anthropic.
 
 ## What I'm Building
 
-**[RAD Claude Skills](https://github.com/radesjardins/RAD-Claude-Skills)** — 23 plugins, 233+ skills, and 27 autonomous agents for Claude Code CLI, Claude Desktop, and Claude.ai. Covers code review, TypeScript, React, Next.js, Fastify, Supabase, Coolify, SEO, accessibility, writing, brainstorming, project planning, Google Workspace, and more.
+**[RAD Claude Skills](https://github.com/radesjardins/RAD-Claude-Skills)** — 15 plugins, 190+ skills, and 14 autonomous agents for Claude Code CLI, Claude Desktop, and Claude.ai. Covers code review, TypeScript, React, Next.js, Fastify, Supabase, Coolify, SEO, accessibility, writing, brainstorming, project planning, Google Workspace, and more.
 
 Free and open source.
 
-Plugins are installed in one command and activate automatically — no manual invocation. Three plugins also have Claude.aiskill adaptations for use without the CLI.
+Plugins are installed with a single command and activate automatically — no manual invocation. Three plugins also have Claude.aiskill adaptations for use without the CLI.
 
 ## Featured
 
@@ -16,8 +16,6 @@ Plugins are installed in one command and activate automatically — no manual in
 - **rad-session** — `/wrapup` and `/startup` for structured context handoffs between Claude Code sessions
 - **rad-writer** — domain-aware writing and editorial review across 9 content types, with AI pattern removal (CLI + Claude.ai)
 - **rad-planner** — structured project planning with dependency-aware task graphs, stack evaluation, and risk assessment before any code is written
-- **rad-stack-guide** — detects your full stack, recommends which plugins to install, and orchestrates all your
-  specialist reviewers before you ship
 
 ## Links
 
