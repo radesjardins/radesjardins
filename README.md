@@ -1,4 +1,4 @@
-# Hi, I'm RAD
+# Hi, I'm Ryan
 
 I build open-source plugins and skills for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) — Anthropic's agentic coding CLI.
 
