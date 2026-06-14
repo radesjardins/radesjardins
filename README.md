@@ -4,7 +4,7 @@ I build open-source plugins and skills for [Claude Code](https://docs.anthropic.
 
 ## What I'm Building
 
-**[RAD Claude Skills](https://github.com/radesjardins/RAD-Claude-Skills)** — 15 plugins, 190+ skills, and 14 autonomous agents for Claude Code CLI, Claude Desktop, and Claude.ai. Covers code review, TypeScript, React, Next.js, Fastify, Supabase, Coolify, SEO, accessibility, writing, brainstorming, project planning, Google Workspace, and more.
+**[RAD Claude Skills](https://github.com/radesjardins/RAD-Claude-Skills)** — To be perfectly honest, these were primarily designed for me and my workflow, but I'm sharing them here because I figured if they work well for me, they might fit someone elses workflow too.  I am sure they are not perfect, and I welcome feedback to make them better.
 
 Free and open source.
 
@@ -12,14 +12,12 @@ Plugins are installed with a single command and activate automatically — no ma
 
 ## Featured
 
-- **rad-code-review** — diff-aware adversarial review that catches AI anti-patterns and only flags what you changed
-- **rad-session** — `/wrapup` and `/startup` for structured context handoffs between Claude Code sessions
-- **rad-writer** — domain-aware writing and editorial review across 9 content types, with AI pattern removal (CLI + Claude.ai)
+- **rad-code-review** — diff-aware adversarial review that catches AI anti-patterns
+- **rad-repo-manager** — A utility to help keep your repo neat and avoid stale or misleading documents.  It helps ensure each chat is wrapped up and ready for the next time and then started on the right foot when you begin a new chat.  If things seem off track or if you just want to ensure things are clean along the way the aignment feature searches the repo for stale or contradictory information and asks you what you want to change or keep the same.
 - **rad-planner** — structured project planning with dependency-aware task graphs, stack evaluation, and risk assessment before any code is written
 
 ## Links
 
 - [RAD Claude Skills](https://github.com/radesjardins/RAD-Claude-Skills) — browse all plugins and skills
-- [dev.to](https://dev.to/radesjardins) — writing about Claude Code and open source
 
 Apache 2.0 — free to use, fork, and improve
