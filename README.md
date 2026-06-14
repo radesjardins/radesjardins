@@ -2,6 +2,8 @@
 
 I build open-source plugins and skills for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) — Anthropic's agentic coding CLI.
 
+I'm NOT a formally educated engineer.  I'm a Gen X, near retirement, tech learning new things, leveraging AI, and basically having fun building.  If you find value in any of the plugins, I'd love to know.
+
 ## What I'm Building
 
 **[RAD Claude Skills](https://github.com/radesjardins/RAD-Claude-Skills)** — To be perfectly honest, these were primarily designed for me and my workflow, but I'm sharing them here because I figured if they work well for me, they might fit someone elses workflow too.  I am sure they are not perfect, and I welcome feedback to make them better.
